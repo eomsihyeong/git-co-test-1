@@ -1,9 +1,9 @@
-# git-co-test-1
-asdads1
-asdasd2
-sadda3
+# git-co-test-2
+asdads11
+asdasd22
+sadda33
 메롱 바보4
-asdads4
-asdasd3
-sadda2
-메롱 바보1
+asdaads4
+asdasd33
+sadda22
+메롱롱 바보1
